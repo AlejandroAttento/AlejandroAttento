@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my repository
 
-<!--
-**AlejandroAttento/AlejandroAttento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here I have a collection of simple (or more complex) process developed.
+They are grouped depending on the handled task, by now all the projects are those which I created for courses but in the future, I will be adding more content.
+Please feel free to explore the different projects and let me all your comments, ask, and suggestions.
 
-Here are some ideas to get you started:
+Currently, some of the projects are explained in Spanish, I will be translating them into English in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more information please feel free to contact me through my e-mail or linkedIn account.
+In LinkedIn you can find also more information about me.
+
+E-mail: alejandro.attento@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/alejandro-daniel-attento/
+
+
+## Below you will find a brief summary of the different repositories you will find here
