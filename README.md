@@ -16,10 +16,10 @@ LinkedIn: https://www.linkedin.com/in/alejandro-daniel-attento/
 
 ## Below you will find a brief summary of the different repositories you will find here
 
-### Activation function
+### [Activation function](https://github.com/AlejandroAttento/Activation-function)
 
-### Simple Monte Carlo simulation
+### [Simple Monte Carlo simulation](https://github.com/AlejandroAttento/Simple-Monte-Carlo-simulation)
 
-### Google stock trend prediction
+### [Google stock trend prediction](https://github.com/AlejandroAttento/Google-stock-trend-prediction)
 
-### Bayesian AB Testing
+### [Bayesian AB Testing](https://github.com/AlejandroAttento/Bayesian-AB-Testing)
