@@ -9,9 +9,10 @@ Currently, some of the projects are explained in Spanish, I will be translating 
 For more information please feel free to contact me through my e-mail or linkedIn account.
 In LinkedIn you can find also more information about me.
 
-E-mail: alejandro.attento@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/alejandro-daniel-attento/
+[E-mail](alejandro.attento@gmail.com) [LinkedIn](https://www.linkedin.com/in/alejandro-daniel-attento/)
+
+ 
 
 
 ## Below you will find a brief summary of the different repositories you will find here
