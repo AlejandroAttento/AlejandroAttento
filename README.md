@@ -15,3 +15,11 @@ LinkedIn: https://www.linkedin.com/in/alejandro-daniel-attento/
 
 
 ## Below you will find a brief summary of the different repositories you will find here
+
+### Activation function
+
+### Simple Monte Carlo simulation
+
+### Google stock trend prediction
+
+### Bayesian AB Testing
