@@ -1,4 +1,4 @@
-# Welcome to my repository
+# Welcome to my GitHub
 
 Here I have a collection of simple (or more complex) process developed.
 They are grouped depending on the handled task, by now all the projects are those which I created for courses but in the future, I will be adding more content.
