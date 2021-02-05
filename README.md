@@ -1,8 +1,8 @@
 # Welcome to my GitHub
 
 Here I have a collection of simple (or more complex) process developed.
-They are grouped depending on the handled task, by now all the projects are those which I created for courses but in the future, I will be adding more content.
-Please feel free to explore the different projects and let me know if you have any questions or suggestions.
+They are grouped depending on the handled task, by now all the projects are those which I created for courses, but in the future I will be adding more content.
+Please feel free to explore the different projects, and let me know if you have any questions or suggestions.
 
 Currently, some of the projects are explained in Spanish, I will be translating them into English in the future.
 
