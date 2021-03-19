@@ -18,3 +18,5 @@ In LinkedIn you can find also more information about me.
 ### [Google stock trend prediction](https://github.com/AlejandroAttento/Google-stock-trend-prediction)
 
 ### [Bayesian AB Testing](https://github.com/AlejandroAttento/Bayesian-AB-Testing)
+
+### [Explainable AI using Pytorch and Captum](https://github.com/AlejandroAttento/Pytorch-Captum)
