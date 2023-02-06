@@ -11,8 +11,6 @@ In LinkedIn you can find also more information about me.
 
 ## Below you will find a brief summary of the different repositories you will find here
 
-### [Activation function](https://github.com/AlejandroAttento/Activation-function)
-
 ### [Simple Monte Carlo simulation](https://github.com/AlejandroAttento/Simple-Monte-Carlo-simulation)
 
 ### [Google stock trend prediction](https://github.com/AlejandroAttento/Google-stock-trend-prediction)
@@ -20,3 +18,5 @@ In LinkedIn you can find also more information about me.
 ### [Bayesian AB Testing](https://github.com/AlejandroAttento/Bayesian-AB-Testing)
 
 ### [Explainable AI using Pytorch and Captum](https://github.com/AlejandroAttento/Pytorch-Captum)
+
+### [XGBoost model process using JAVA](https://github.com/AlejandroAttento/xgboost_java_model/tree/master)
