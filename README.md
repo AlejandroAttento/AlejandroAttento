@@ -22,3 +22,7 @@ In LinkedIn you can find also more information about me.
 ### [XGBoost model process using JAVA](https://github.com/AlejandroAttento/xgboost_java_model/tree/master)
 
 ### [How to build explainable Neural Networks](https://github.com/AlejandroAttento/Pytorch_Captum)
+
+### [Using Pinecone Vector DB for Retrieval Augmented Generation (RAG)](https://github.com/AlejandroAttento/Using-Pinecone-for-Retrieval-Augmented-Generation)
+
+### [Using Chroma Vector DB for Retrieval Augmented Generation (RAG)](https://github.com/AlejandroAttento/Using-Chroma-for-Retrieval-Augmented-Generation)
