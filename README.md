@@ -26,3 +26,5 @@ In LinkedIn you can find also more information about me.
 ### [Using Pinecone Vector DB for Retrieval Augmented Generation (RAG)](https://github.com/AlejandroAttento/Using-Pinecone-for-Retrieval-Augmented-Generation)
 
 ### [Using Chroma Vector DB for Retrieval Augmented Generation (RAG)](https://github.com/AlejandroAttento/Using-Chroma-for-Retrieval-Augmented-Generation)
+
+### [LLM Parameter Efficient Fine Tuning (PEFT) with LoRA](https://github.com/AlejandroAttento/LLM-Parameter-Efficient-Fine-Tuning-with-LoRA)
